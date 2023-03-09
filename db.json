@@ -79,6 +79,14 @@
       "url": "https://www.youtube.com/embed/OAGfx7eB3gA",
       "imagem": "https://yt3.ggpht.com/ytc/AL5GRJXQAF6RCUWlCfEE7VeLZoB6ICvcJv_FKjspqMlYcA=s48-c-k-c0x00ffffff-no-rj",
       "id": 10
+    },
+    {
+      "titulo": "Alguma coisa",
+      "canal": "Kurzgesagt",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/8PhdfcX9tG0",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 11
     }
   ]
 }
