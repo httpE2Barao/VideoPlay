@@ -27,19 +27,22 @@ body {
 
 .cabecalho__container {
     z-index: 3;
-    /* background-color: var(--main-claro); */
-    background-image: url(../img/cabecalho/faixa.png);
+    background-image: url(../img/cabecalho/faixadupla.png);
     background-size: 100vw;
     height: 60px;
     width: 100%;
     padding: 0 25px;
+}
+.cabecalho__container:nth-of-type(n+2) {
+    transform: scaleY(-1);
+    background-repeat: repeat-y;
 }
 
 .logo__item {
     background-image: url(../img/cabecalho/Logo.png);
     background-repeat: no-repeat;
     /* border: solid 1px var(--cinza-texto); */
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.815);
+    box-shadow: 0 0 10px #33C8FE;
     padding: 17px 30px;
     cursor: pointer;
     background-size: contain;
@@ -105,6 +108,7 @@ body {
 
 .menu__container {
     background-color: var(--main-claro);
+    height: 60px;
     font-size: 14px;
 }
 
@@ -288,6 +292,9 @@ body {
     padding: 10px 0 20px 0;
 }
 @media(max-width: 500px) {
+    .menu__container {
+        height: 55px;
+    }
     .menu__lista a {
         width: 12vw;
         font-size: 0;
