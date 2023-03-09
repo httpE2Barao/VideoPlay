@@ -49,10 +49,10 @@ body {
 .pesquisar__input {
     width: 260px;
     height: 32px;
+    color: #000000;
     border: 1px solid rgb(211, 211, 211);
     font-size: 16px;
     padding: 3px 8px;
-    border: 1px solid rgb(211, 211, 211);
     border-radius: 10px 0 0 10px;
 }
 
@@ -287,7 +287,12 @@ body {
     font-weight: bold;
     padding: 10px 0 20px 0;
 }
-
+@media(max-width: 500px) {
+    .menu__lista a {
+        width: 12vw;
+        font-size: 0;
+    }
+}
 @media(min-width: 834px) {
 
     body {
