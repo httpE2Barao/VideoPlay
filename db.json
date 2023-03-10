@@ -49,14 +49,6 @@
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
-      "titulo": "PROGRAMAR EM INGLÊS OU PORTUGUÊS?",
-      "canal": "Filipe Deschamps",
-      "descricao": "3 mil visualizações",
-      "url": "https://www.youtube.com/embed/xWbuHZcS8gA",
-      "imagem": "https://yt3.ggpht.com/ytc/AL5GRJWKw7sAZ2tWdYDJxOzZscl0hyknfssSXReH0AS_=s48-c-k-c0x00ffffff-no-rj",
-      "id": 6
-    },
-    {
       "titulo": "Chamado aos Trabalhadores da Última hora",
       "canal": "Canal do Pava",
       "descricao": "7 mil visualizações",
@@ -95,6 +87,110 @@
       "url": "https://www.youtube.com/embed/AAwbvGywdOc",
       "imagem": "https://yt3.ggpht.com/ytc/AL5GRJW4MUjNhpfGvIzBqtaMcBFCWFrc7ZRNXP2wXrX5fQ=s48-c-k-c0x00ffffff-no-rj",
       "id": 12
+    },
+    {
+      "titulo": "How Binary Works, and the Power of Abstraction",
+      "canal": "Josh's Channel",
+      "descricao": "0 mil visualizações",
+      "url": "https://www.youtube.com/embed/PMpNhbMjDj0",
+      "imagem": "https://yt3.ggpht.com/GkG5rgpIduMBlRJJA8MyAXmm8Bl7kl6iTDfMtkDY3cdr3dSIsxsVWj8Wp_wGt-h_z_T8UAIDCUg=s48-c-k-c0x00ffffff-no-rj",
+      "id": 13
+    },
+    {
+      "titulo": "Miserere mei, Domine (Jean L’Héritier)",
+      "canal": "The Gesualdo Six",
+      "descricao": "0 mil visualizações",
+      "url": "https://www.youtube.com/embed/RsoEg9ClbuM",
+      "imagem": "https://yt3.ggpht.com/JgREX_7pMX01KplCbli9f7TMK3vV2B9eSDNlA7elp5bvEoq4bzQ3dMwkvb5M5BlmFIa4C6cPdQ=s48-c-k-c0x00ffffff-no-rj",
+      "id": 14
+    },
+    {
+      "titulo": "You Can Make a Netflix Style Doco About Literally Anything",
+      "canal": " Paul E.T.",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/9BUrNe3Vhtk",
+      "imagem": "https://yt3.ggpht.com/U6QZS0BBB6SVz7tZ-Y3sEqB_GqV9ShjLFzfCZ9ZQFUj6FtzKvadpeiForxCaGitm6gHs7lJC5g=s48-c-k-c0x00ffffff-no-rj",
+      "id": 15
+    },
+    {
+      "titulo": "Monges ortodoxos - O Canto Polifônico Oriental",
+      "canal": "Frei Silêncio",
+      "descricao": "6 mil visualizações",
+      "url": "https://www.youtube.com/embed/Ni9BoswrjFo",
+      "imagem": "https://yt3.ggpht.com/ytc/AL5GRJWOFwt2pDvQjsalkY0FA-QPXWPVNYElU8XsAeijAA=s48-c-k-c0x00ffffff-no-rj",
+      "id": 16
+    },
+    {
+      "titulo": "The Magic Flute – Queen of the Night aria (Mozart)",
+      "canal": " Royal Opera House",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/YuBeBjqKSGQ",
+      "imagem": "https://yt3.ggpht.com/ytc/AL5GRJVjZQzApvJcu1vMLatdAYvXclwoGb-iETN2CMo6Fw=s48-c-k-c0x00ffffff-no-rj",
+      "id": 17
+    },
+    {
+      "titulo": "ADORNO E A INDÚSTRIA DA CULTURA",
+      "canal": " Tempero Drag",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/F98LqQt0Rd8",
+      "imagem": "https://yt3.ggpht.com/ytc/AL5GRJX9eBr4JWpMc7oO05I9_5PpFEIivNW5SdJjrx886g=s48-c-k-c0x00ffffff-no-rj",
+      "id": 18
+    },
+    {
+      "titulo": "O Ovo - Uma pequena história",
+      "canal": " Kurzgesagt",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/h6fcK_fRYaI",
+      "imagem": "https://yt3.ggpht.com/ytc/AL5GRJWjS7at2j0n5yn5dsfYFe5x_V8QeN66ppWjzChpoQ=s48-c-k-c0x00ffffff-no-rj",
+      "id": 19
+    },
+    {
+      "titulo": "BLUESMAN (Filme Oficial)",
+      "canal": " BACO EXU DO BLUES",
+      "descricao": "0 mil visualizações",
+      "url": "https://www.youtube.com/embed/-xFz8zZo-Dw",
+      "imagem": "https://yt3.ggpht.com/5XtpsG6Il-pQG-kFtAIIE88G9iudJb9W5KDQ7rQFrgKLewwRKGzhTrEpwWBIgLfQ3BWg3ay3Fw=s48-c-k-c0x00ffffff-no-nd-rj",
+      "id": 20
+    },
+    {
+      "titulo": "OUR PLANET | MY EYES",
+      "canal": " MrBrynnorth",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/QHvll5ONFL8",
+      "imagem": "https://yt3.ggpht.com/ytc/AL5GRJU7_fhWGcyXUt1MiCjc36MX5QnIJD610-LBVI_Aig=s48-c-k-c0x00ffffff-no-rj",
+      "id": 21
+    },
+    {
+      "titulo": "Conversando em mais de 5 idiomas com minha avó poliglota",
+      "canal": "Nathaniel Drew",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/AYp5xtkoF6M",
+      "imagem": "https://yt3.ggpht.com/ytc/AL5GRJWO-G4GF0MUesT-ALlgBhfv749ePvzOCcftkr8uQg=s48-c-k-c0x00ffffff-no-rj",
+      "id": 22
+    },
+    {
+      "titulo": "Pare de desperdiçar sua vida",
+      "canal": " Prince Ea",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/M2NDQOgGycg",
+      "imagem": "https://yt3.ggpht.com/ytc/AL5GRJWxMlEnueRrhncJPl4F6zi3gWRTCUke8yy9mMAF7A=s48-c-k-c0x00ffffff-no-rj",
+      "id": 23
+    },
+    {
+      "titulo": "i want to die",
+      "canal": " Marc Rebillet",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/5AhZh4A7NLM",
+      "imagem": "https://yt3.ggpht.com/ytc/AL5GRJXEkgtOWAWSl7kupKh79Oe4cTBUvyvzNuYgRypCIzY=s48-c-k-c0x00ffffff-no-rj",
+      "id": 24
+    },
+    {
+      "titulo": "Como Eu Programo e Hospedo Sites da Forma Mais Moderna",
+      "canal": "Filipe Deschamps",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/EW7m2WIvFgQ",
+      "imagem": "https://yt3.ggpht.com/ytc/AL5GRJWKw7sAZ2tWdYDJxOzZscl0hyknfssSXReH0AS_=s48-c-k-c0x00ffffff-no-rj",
+      "id": 25
     }
   ]
 }
