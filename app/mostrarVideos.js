@@ -20,16 +20,16 @@ export default function constroiCard(titulo, canal, descricao, url, imagem) {
     return video;
 }
 
-async function listaVideos() {
-    try {
-        const listaAPI = await conectaAPI.listaVideos();
-        shuffleArray(listaAPI);
-        listaAPI.forEach(elemento => lista.appendChild(
-            constroiCard(elemento.titulo, elemento.canal, elemento.descricao, elemento.url, elemento.imagem)))
-    } catch {
-        lista.innerHTML = `<h2 class='mensagem__titulo'>Não foi possivel carregar a lista de videos.</h2> `
-    }
-}
+// async function listaVideos() {
+//     try {
+//         const listaAPI = await conectaAPI.listaVideos();
+//         shuffleArray(listaAPI);
+//         listaAPI.forEach(elemento => lista.appendChild(
+//             constroiCard(elemento.titulo, elemento.canal, elemento.descricao, elemento.url, elemento.imagem)))
+//     } catch {
+//         lista.innerHTML = `<h2 class='mensagem__titulo'>Não foi possivel carregar a lista de videos.</h2> `
+//     }
+// }
 
 function shuffleArray(lista) {
     for (let i = lista.length - 1; i > 0; i--) {
