@@ -291,6 +291,9 @@ body {
     font-weight: bold;
     padding: 10px 0 20px 0;
 }
+.rodape__container p:hover {
+    cursor: pointer;
+}
 @media(max-width: 500px) {
     .menu__container {
         height: 55px;

@@ -1,12 +1,12 @@
 async function listaVideos() {
-  const conexao = await fetch('http://localhost:3000/videos');
+  const conexao = await fetch('https://httpe2barao.github.io/VideoPlay/db.json');
   const conexaoConvertida = await conexao.json();
 
   return conexaoConvertida;
 }
 
 async function criaVideo(titulo, canal, descricao, url, imagem) {
-  const conexao = await fetch('http://localhost:3000/video', {
+  const conexao = await fetch('https://httpe2barao.github.io/VideoPlay/db.json', {
     method: 'POST',
     headers: {
       'Content-type': 'application/json'
@@ -29,7 +29,7 @@ async function criaVideo(titulo, canal, descricao, url, imagem) {
 }
 
 async function buscaVideo(termo) {
-  const conexao = await fetch(`http://localhost:3000/videos?q=${termo}`);
+  const conexao = await fetch(`https://httpe2barao.github.io/VideoPlay/db.json?q=${termo}`);
   const conexaoConvertida = conexao.json();
 
   return conexaoConvertida;
